@@ -59,6 +59,7 @@ My failing attempts were based on others work, which I want to mention:
 
 * [ ] [Reboot hangs](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues/1) (a short power button push finishes it)
 * [ ] [Backlight control](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues/2)
+* [ ] [Microphone input](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues/3)
 
 ### Not tested
 
