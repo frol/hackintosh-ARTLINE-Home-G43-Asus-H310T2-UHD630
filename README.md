@@ -55,13 +55,13 @@ My failing attempts were based on others work, which I want to mention:
 
 ### Does not work
 
-*Please, [drop me an issue](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues) if you have a suggestion on how to fix these.*
+*Please, let me know if you have a suggestion on how to fix these in the linked issue.*
 
-* [] Reboot hangs (a short power button push finishes it)
-* [] Backlight control
+* [ ] [Reboot hangs](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues/1) (a short power button push finishes it)
+* [ ] [Backlight control](https://github.com/frol/hackintosh-ARTLINE-Home-G43-Asus-H310T2-UHD630/issues/2)
 
 ### Not tested
 
-* [] HDMI
-* [] DisplayPort
-* [] Card Reader
+* [ ] HDMI
+* [ ] DisplayPort
+* [ ] Card Reader
