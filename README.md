@@ -2,6 +2,8 @@
 
 This repository serves the purpose of keeping track my configuration for the specific device I own, but it might be useful for someone who uses the same hardware.
 
+[Here](https://www.reddit.com/r/hackintosh/comments/dj8b2k/allinone_asus_h310t2_i5_8400_uhd_630_catalina_1015/) is a Reddit discussion.
+
 NOTE: I have removed my serial number and other private info from SMBIOS section
 of `config.plist`, please follow guides (e.g.
 [1](https://www.tonymacx86.com/threads/guide-how-to-configure-your-systems-smbios-correctly.198155/),
