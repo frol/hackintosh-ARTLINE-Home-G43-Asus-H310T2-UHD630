@@ -40,6 +40,7 @@ My failing attempts were based on others work, which I want to mention:
 * [@littlegtplr's Coffee Lake builds](https://github.com/littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds)
 * [@PoomSmart's ASUS-FX504GE](https://github.com/PoomSmart/ASUS-FX504GE-Hackintosh)
 * [Ongoing Status of Designare Z390 with i7-9700K](https://www.tonymacx86.com/threads/success-ongoing-status-of-designare-z390-with-i7-9700k.266065/)
+* [@yuqi's Deskmini-310-Hackintosh](https://github.com/yuqi/Deskmini-310-Hackintosh)
 
 ### Works
 
